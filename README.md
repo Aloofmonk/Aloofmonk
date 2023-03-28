@@ -11,7 +11,7 @@ I'm a Software Engineer and currently enrolled in the Altschool Africa Software 
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, specifically Frontend Engineering roles (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing bnomba0704@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1oHiAa40omJBT40nmi8ZFMJSSCIGGFrU5/view) and contact me by emailing bnomba0704@gmail.com.
 
 ---
 
