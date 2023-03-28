@@ -8,7 +8,7 @@ I'm a Software Engineer and currently enrolled in the Altschool Africa Software 
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Reactjs.
+- 🌱 I’ve used various technologies like JavaScript, Reactjs, Vue, Tailwind and I'm currently learning Nuxt.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, specifically Frontend Engineering roles (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1oHiAa40omJBT40nmi8ZFMJSSCIGGFrU5/view) and contact me by emailing bnomba0704@gmail.com.
