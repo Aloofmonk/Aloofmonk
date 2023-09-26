@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-benjaminnomba.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://benjaminnomba.vercel.app)](https://benjaminnomba.vercel.app) [![Linkedin Badge](https://img.shields.io/badge/-benjaminnomba-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-nomba-61351621a/)](https://www.linkedin.com/in/benjamin-nomba-61351621a/) [![Twitter Badge](https://img.shields.io/badge/-@Benjamin_Nomba-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/codersoda)](https://twitter.com/codersoda)
 
-I'm a Software Engineer and currently enrolled at the Altschool Africa Software Engineer program. I'm passionate about sharing knowledge, my work and creating interactive web applications, amongst other things. I also create technical content (on my [Blog](https://hashnode.com/@CoderSoda), build useful [projects](https://github.com/Aloofmonk) and all round learning new things...
+I'm a Software Engineer and currently enrolled at the Altschool Africa Software Engineer program. I'm passionate about sharing knowledge, my work and creating interactive web applications, amongst other things. I also create technical content (on my [Blog](https://hashnode.com/@CoderSoda), build useful [projects](https://benjaminnomba.vercel.app/) and all round learning new things...
 
 **Here's a quick summary about me**:
 
